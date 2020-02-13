@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "가자~"
+title                    : "Aiden's blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "열심히 성장중인 대학생"
+name                     : "https://gogomovy.github.io"
 description              : "운동, 코딩, 공부를 좋아하는 대학생의 블로그."
 url                      : "https://gogomovy.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "열심히 성장중인 대학생"
+  name             : "Aiden Park"
   avatar           : "/assets/images/profile_cat.JPG"
   bio              : "운동, 코딩, 공부를 좋아하는 대학생"
   location         : "South Korea"
-  email            :
+  email            : "gogomovy@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
