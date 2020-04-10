@@ -7,6 +7,7 @@ categories:
 tags:
   - deep learning
   - 3분 딥러닝
+last_modified_at: 2020-04-10T18:40:00
 ---
 
 # 1.1 인공지능, 머신러닝, 그리고 딥러닝  
