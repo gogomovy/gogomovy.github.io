@@ -3,10 +3,10 @@ title: "[3분 딥러닝] 1장. 딥러닝과 텐서플로의 만남"
 excerpt: "3분 딥러닝"
 
 categories:
-  - deep learning
+  - deep_learning
 tags:
-  - deep learning
-  - 3분 딥러닝
+  - deep_learning
+  - 3분딥러닝
 last_modified_at: 2020-04-10T18:40:00
 ---
 
