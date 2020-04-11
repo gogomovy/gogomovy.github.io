@@ -1,9 +1,11 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  #- title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "About"
+    url: https://gogomovy.github.io/about/
+  #- title: "Blogs"
+  #  url: https://gogomovy.github.io/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
